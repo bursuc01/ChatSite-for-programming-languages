@@ -5,5 +5,7 @@ In order to run you need to manage django configurations within one of the exist
 is pycharm by JetBrains.
 
 https://www.youtube.com/watch?v=p6rNK1cfWps -Django setup tutorial for Pycharm
+
 https://www.youtube.com/watch?v=eJdfsrvnhTE -Django setup tutorial for VsCode
 
+Everything you need to modify lies within the RestaurantProject file, the base file and the templates file. The first two files handle the backend part of the site and the templates file handle the frontend.
